@@ -1,3 +1,3 @@
-module github.com/go-chi/cors
+module github.com/Azaki-san/cors
 
 go 1.24
